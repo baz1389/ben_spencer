@@ -3075,3 +3075,23 @@
 #one, #two, #three, #four, #footer {
 	background-color: #F1E8DC;
 }
+
+/*.feature-icons ul
+{
+margin: 0;
+padding: 0;
+list-style-type: none;
+text-align: center;
+}*/
+
+ul.feature-icons > li > img {
+  width: 50px;
+  height: 50px;
+  margin: 0;
+  padding: 0;
+
+}
+
+ul.feature-icons > li {
+  display: inline;
+ }
