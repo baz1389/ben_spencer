@@ -3101,4 +3101,11 @@ ul.feature-icons > li {
 
 ul.contact-list {
 	list-style-type: none;
+	float: left;
+	margin-left: -20px;
+}
+
+ul.contact-list > li > a > span.icon {
+    margin-right: 10px;
+    float: left;
 }
